@@ -19,6 +19,8 @@ An automatic tool designed to sign up lectures in Fuzhou University.
 > * record.txt
 
 **DO NOT TOUCH IT.**
-IT WILL CONFIGURED AUTOMATICLY BY THE PROGRAM.
-KEEP IT ON UTF-8 ENCODING, OR YOU WILL GET UNKNOWN ERRORS
+```
+It will configured automaticly by the program.
+Keep it on utf-8 encoding ,or you will get unknown errors.
+```
 
