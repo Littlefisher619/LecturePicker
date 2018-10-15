@@ -15,3 +15,10 @@ An automatic tool designed to sign up lectures in Fuzhou University.
 | 2  | Password for http://jwch.fzu.edu.cn       |
 | 3  | QQ EMail Address                          |
 | 4  | Authorization Code for your qq email      |
+
+> * record.txt
+
+**DO NOT TOUCH IT.**
+IT WILL CONFIGURED AUTOMATICLY BY THE PROGRAM.
+KEEP IT ON UTF-8 ENCODING, OR YOU WILL GET UNKNOWN ERRORS
+
