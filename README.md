@@ -8,6 +8,7 @@ An automatic tool designed to sign up lectures in Fuzhou University.
 
 # Configure
 > * config.txt
+
 |Line|  Description                              |
 |:--:| :---------------------------------------: |
 | 1  | Username for http://jwch.fzu.edu.cn       |
