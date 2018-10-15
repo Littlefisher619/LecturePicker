@@ -28,7 +28,7 @@ If WHITELIST mode is enabled, program will only sign up for those lectures conta
 
 ### record.txt
 
-**DO NOT TOUCH IT.**
+DO NOT TOUCH IT.
 ```
 It will configured automaticly by the program.
 Keep it on utf-8 encoding, or you will get unknown errors.
