@@ -1,18 +1,18 @@
 # LecturePicker
 An automatic tool designed to sign up lectures in Fuzhou University.
 
-# Feature
-> * Highly customizable, you can specify the interval of scheduled task.
-> * Toggle whitelist mode or blacklist mode depends on you.
-> * Mail Notification Service
-> * Colorful console outputs
+## Feature
+* Highly customizable, you can specify the interval of scheduled task.
+* Toggle whitelist mode or blacklist mode depends on you.
+* Mail Notification Service
+* Colorful console outputs
 
-# Library
-> * [HtmlUnit](https://mvnrepository.com/artifact/net.sourceforge.htmlunit/htmlunit/2.33)
-> * [Javax.Mail](https://mvnrepository.com/artifact/javax.mail/javax.mail-api/1.6.2)
-> * [Jansi](https://mvnrepository.com/artifact/org.fusesource.jansi/jansi/1.17.1)
+## Library
+* [HtmlUnit](https://mvnrepository.com/artifact/net.sourceforge.htmlunit/htmlunit/2.33)
+* [Javax.Mail](https://mvnrepository.com/artifact/javax.mail/javax.mail-api/1.6.2)
+* [Jansi](https://mvnrepository.com/artifact/org.fusesource.jansi/jansi/1.17.1)
 
-# Configure
+## Configure
 All of these config files are encoding with utf-8.
 
 ### config.txt
@@ -40,7 +40,7 @@ It will configured automaticly by the program.
 Keep it on utf-8 encoding, or you will get unknown errors.
 ```
 
-# Command-line Arguments
+## Command-line Arguments
 |  Args      |  Description                               |
 |:--------:  | :---------------------------------------:  |
 | nomail     | Disable the mail notification service      |
